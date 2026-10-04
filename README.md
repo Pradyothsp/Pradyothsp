@@ -2,7 +2,7 @@
 
 Backend and AI engineer. I build data infrastructure, retrieval systems, and ML pipelines.
 
-Currently building [govec](https://github.com/Pradyothsp/govec) — a vector search engine in Go with HNSW indexing, int8 quantization, and hybrid search.
+Currently building [GoVec](https://github.com/Pradyothsp/govec) — a vector search engine in Go with HNSW indexing, int8 quantization, and hybrid search.
 
 I write about what I learn building it (benchmarks, profiling, and the bugs that got me there) on [Medium](https://medium.com/@sppradyoth).
 
